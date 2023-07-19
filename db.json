@@ -89,15 +89,15 @@
         },
         {
             "tag": "cng",
-            "tag" : 2
+            "id" : 2
         },
         {
             "tag": "bus",
-            "tag" : 3
+            "id" : 3
         },
         {
             "tag": "bike",
-            "tag" : 4
+            "id" : 4
         }
     ]
 }
