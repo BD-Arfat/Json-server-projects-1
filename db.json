@@ -84,16 +84,20 @@
     ],
     "tags": [
         {
-            "tag": "car"
+            "tag": "car",
+            "id" : 1
         },
         {
-            "tag": "cng"
+            "tag": "cng",
+            "tag" : 2
         },
         {
-            "tag": "bus"
+            "tag": "bus",
+            "tag" : 3
         },
         {
-            "tag": "bike"
+            "tag": "bike",
+            "tag" : 4
         }
     ]
 }
